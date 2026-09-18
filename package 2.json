@@ -1,0 +1,12 @@
+{
+  "name": "stickman-souls-server",
+  "version": "1.1.0",
+  "description": "Servidor multiplayer Stickman Souls — tutorial + CAP. 1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
